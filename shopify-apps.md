@@ -171,7 +171,7 @@
 - Limitations?
   * Doesn't have size recommender (yet)
 
-  ### [Design Packs: Theme Sections](https://apps.shopify.com/design-packs?utm_source=sda&utm_medium=github_dev-resources&utm_campaign=shopify-apps)
+### [Design Packs: Theme Sections](https://apps.shopify.com/design-packs?utm_source=sda&utm_medium=github_dev-resources&utm_campaign=shopify-apps)
 
 - Recommended by user: @trudymacnabb
 - What does the app do?
@@ -188,7 +188,7 @@
 - Limitations?
   * Can't be used with Headless
 
-  ### [Design Packs: Product Blocks](https://apps.shopify.com/product-blocks?utm_source=sda&utm_medium=github_dev-resources&utm_campaign=shopify-apps)
+### [Design Packs: Product Blocks](https://apps.shopify.com/product-blocks?utm_source=sda&utm_medium=github_dev-resources&utm_campaign=shopify-apps)
 
 - Recommended by user: @trudymacnabb
 - What does the app do?
