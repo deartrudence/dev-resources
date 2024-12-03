@@ -170,3 +170,34 @@
 - Does the app have a development store option? Yes
 - Limitations?
   * Doesn't have size recommender (yet)
+
+  ### [Design Packs: Theme Sections](https://apps.shopify.com/design-packs?utm_source=sda&utm_medium=github_dev-resources&utm_campaign=shopify-apps)
+
+- Recommended by user: @trudymacnabb
+- What does the app do?
+  * 200+ customizable sections and templates
+  * Build entirely in the theme editor with pre-designed templates
+  * Built for performance & speed: Will not affect page speed
+  * Customizations: Size, fonts, colors, animation, and mobile settings
+  * New Releases Monthly: Updated regularly for quality
+  * Fast Support: Email and live chat are available
+  * Supports localization and markets
+- Does the app have a development store option? 
+  * 3 free sections to test functionality
+  * Contact us for options
+- Limitations?
+  * Can't be used with Headless
+
+  ### [Design Packs: Product Blocks](https://apps.shopify.com/product-blocks?utm_source=sda&utm_medium=github_dev-resources&utm_campaign=shopify-apps)
+
+- Recommended by user: @trudymacnabb
+- What does the app do?
+  * Add product info, linked products, and videos effortlessly beside the product gallery
+  * Galleries/Descriptions that update on variant selection
+  * Built for performance & speed: Will not affect page speed
+  * Customizations: Size, fonts, colors, animation, and mobile settings
+  * Fast Support: Email and live chat are available
+- Does the app have a development store option? 
+  * Yes
+- Limitations?
+  * Can't be used with Headless
